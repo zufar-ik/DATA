@@ -1,4 +1,5 @@
 django
 djangorestframework
 gunicorn
-corsheaders
+django-cors-headers
+
